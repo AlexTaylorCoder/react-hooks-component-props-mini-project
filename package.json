@@ -36,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTaylorCoder/react-hooks-component-props-mini-project.git"
+  },
+  "author": "Alex Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTaylorCoder/react-hooks-component-props-mini-project/issues"
+  },
+  "homepage": "https://github.com/AlexTaylorCoder/react-hooks-component-props-mini-project#readme"
 }
